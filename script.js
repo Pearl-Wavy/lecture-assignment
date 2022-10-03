@@ -1,1 +1,1 @@
-alert("WOMEN ARE SMART!!!");
+alert("WOMEN ARE SMART  AND CAPABLE!!!");
